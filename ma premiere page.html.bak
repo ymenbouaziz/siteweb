@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>ma premiere page</title>
+    <meta name="author" content="Imen">
+    <link type="text/css" rel="stylesheet" href="style.css">
+  </head>
+  <body><!--menu de navigation-->
+    <nav>
+      <ul>
+       <a href="ma%20premiere%20page.html"> <li>Page d'accueil</li></a>
+       <a href="images.html"> <li> Images</li></a>
+        <a href="video.html"><li> Video</li></a>
+        <a href="formulaire.html"><li> Formulaire</li></a>
+      </ul>
+      <!--Contenu principal
+--></nav>
+    <article>
+      <h1>Ma première page avec de style</h1>
+      Bienvenue sur ma page<br>
+      Bienvenue sur ma page<br>
+      Bienvenue sur ma page<br>
+      Bienvenue sur ma page<br>
+      <!--Signer et dater la page--></article>
+    <footer>Fait le 05/08/2021<br>
+      Par IMEN</footer>
+  </body>
+</html>
